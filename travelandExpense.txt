@@ -1,0 +1,61 @@
+concursolutions.com
+all the informATION IS UPLOADED IN CONCUR
+how do you put these report into your computer
+issue going on
+usd sheet it is doing ,lookup the journal account
+account is correct or not
+cost center--from usd
+link---wd5.myworkday.com----for checking of cost center
+do we need to validate each cost center in sheet usd with above link--what is the short cut for that
+pop up will get displayed at the end that cost cost center is not correct..
+upload of jd edwards site after that
+which combination of cost center with certain accont is incorrect
+validation  is doing in fund usd
+link of the concur site and do we need and credentials for it.?
+in concur front page where do you go for the downloading purpose---some admin side
+AP\GLExtract V3.03 -WEEKLY inside concur...what path do we have to follow for going towards the report
+place where he is saving the report ..?
+in which folder path report need to be saved....
+reports are consecutive always
+consecutive number of reports always followed
+but how do we sync with the alexandro with this
+freq of these reporting functionalites...when you are going to download them
+which template is for the jd edwards specific
+copying data from usd to fund usd
+120 128 concur file data to the 100 concur pm file
+what data that you post from 120 128 to 100 sheet
+account...amount and name of the employee
+5000 at a  time
+how do we know which compnay is paying which thing to which company from that tool
+apps.powerapps.com
+account,,,amount,,,,remark
+what we do with the other sheets present here
+do we have to upload something in app.powerapps.com as well
+how do we know which company has to pay to whom with account number
+in morning he come to know but how do we come to know this
+how do we know the documents number of the same batch
+it concludes upto last week payments and last two weeks payments of the month
+pcard policy
+report policy number- US Pcard Policy
+pcard info is also contained in the same file
+employee belong to 100 and 188....and in cost center also it starts with 100 and 188
+Concur T&E monthly accrual
+T& E they don't have the report id in the concur...so these are send with the help of mails only..
+why you include only 100,188 and 304
+from where this file has come out
+from which person and from which subject line id
+what are the LSG compnay codes
+what is this Accrual sheet is for
+are we uploading only 304,100 and 188 files only
+where we need to put up the lookup
+any use of FI DOC in it
+what we have to do if vlookup here give some unmatched data....and with which sheets we have to put the 
+vlookup
+where do we have to record these tabs
+10,188,171,304,US20
+GL code have to be 5 chracter
+777characters sap 4 ---metrics
+5 code character we have to take into account
+LSG always has 5 character  int it
+
+
